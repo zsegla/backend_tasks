@@ -1,0 +1,15 @@
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.exe
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.deps.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.runtimeconfig.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\bin\Debug\net6.0\LibraryCatalog.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.csproj.AssemblyReference.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.AssemblyInfoInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.AssemblyInfo.cs
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\refint\LibraryCatalog.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\LibraryCatalog.genruntimeconfig.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\LibraryCatalog\obj\Debug\net6.0\ref\LibraryCatalog.dll

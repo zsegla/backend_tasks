@@ -1,0 +1,15 @@
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\bin\Debug\net6.0\Practices.exe
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\bin\Debug\net6.0\Practices.deps.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\bin\Debug\net6.0\Practices.runtimeconfig.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\bin\Debug\net6.0\Practices.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\bin\Debug\net6.0\Practices.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.csproj.AssemblyReference.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.AssemblyInfoInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.AssemblyInfo.cs
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\refint\Practices.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\Practices.genruntimeconfig.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\Practices\obj\Debug\net6.0\ref\Practices.dll
