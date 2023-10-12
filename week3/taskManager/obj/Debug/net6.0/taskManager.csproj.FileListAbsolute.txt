@@ -1,0 +1,15 @@
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\bin\Debug\net6.0\taskManager.exe
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\bin\Debug\net6.0\taskManager.deps.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\bin\Debug\net6.0\taskManager.runtimeconfig.json
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\bin\Debug\net6.0\taskManager.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\bin\Debug\net6.0\taskManager.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.csproj.AssemblyReference.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.AssemblyInfoInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.AssemblyInfo.cs
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\refint\taskManager.dll
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.pdb
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\taskManager.genruntimeconfig.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\taskManager\obj\Debug\net6.0\ref\taskManager.dll
