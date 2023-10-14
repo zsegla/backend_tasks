@@ -1,0 +1,5 @@
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\BlogApp\obj\Debug\net6.0\BlogApp.csproj.AssemblyReference.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\BlogApp\obj\Debug\net6.0\BlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\BlogApp\obj\Debug\net6.0\BlogApp.AssemblyInfoInputs.cache
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\BlogApp\obj\Debug\net6.0\BlogApp.AssemblyInfo.cs
+C:\Users\HP\Music\backend\tasks\backend_tasks\week3\BlogApp\obj\Debug\net6.0\BlogApp.csproj.CoreCompileInputs.cache
