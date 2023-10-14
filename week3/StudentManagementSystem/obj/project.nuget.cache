@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XxK8o0wLLdJ+jJH39Md5FjFNV6by/wnxVblbQceHQiCpfdQ8jJkYDH7EhfEJ75UKRd1hWelWfEQU45AzrptrRw==",
+  "dgSpecHash": "rc81LWYbcmK1APU2/tZ21BHPhAK4+hgrAyEIns9+kEMmtxSmeH0o1L3QXYT4XC6e7eoWMBbeK5Rsq6ib6LQsEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\StudentManagementSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

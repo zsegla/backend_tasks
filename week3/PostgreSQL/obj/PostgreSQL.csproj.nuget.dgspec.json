@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\StudentManagementSystem.csproj": {}
+    "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\PostgreSQL\\PostgreSQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\StudentManagementSystem.csproj": {
+    "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\PostgreSQL\\PostgreSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\StudentManagementSystem.csproj",
-        "projectName": "StudentManagementSystem",
-        "projectPath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\StudentManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\PostgreSQL\\PostgreSQL.csproj",
+        "projectName": "PostgreSQL",
+        "projectPath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\PostgreSQL\\PostgreSQL.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\studentManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Music\\backend\\tasks\\backend_tasks\\week3\\PostgreSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
